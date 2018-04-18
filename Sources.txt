@@ -1,0 +1,4 @@
+Fonts
+https://fonts.google.com/
+https://www.bootstrapcdn.com/fontawesome/
+https://fontawesome.com/

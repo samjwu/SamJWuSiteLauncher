@@ -1,3 +1,7 @@
+popup.html
+https://stackoverflow.com/questions/6771258/what-does-meta-http-equiv-x-ua-compatible-content-ie-edge-do
+https://stackoverflow.com/questions/14611264/x-ua-compatible-content-ie-9-ie-8-ie-7-ie-edge
+
 manifest.json
 https://developer.chrome.com/apps/manifest
 https://developer.chrome.com/webstore/get_started_simple
