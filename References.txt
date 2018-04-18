@@ -2,6 +2,7 @@ popup.html
 https://stackoverflow.com/questions/6771258/what-does-meta-http-equiv-x-ua-compatible-content-ie-edge-do
 https://stackoverflow.com/questions/14611264/x-ua-compatible-content-ie-9-ie-8-ie-7-ie-edge
 https://www.w3schools.com/bootstrap/bootstrap_modal.asp
+https://www.w3schools.com/howto/howto_css_modals.asp
 
 manifest.json
 https://developer.chrome.com/apps/manifest
