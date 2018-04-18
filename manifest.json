@@ -1,0 +1,13 @@
+{
+    "manifest_version": 2,
+    "name": "samjwu Website Launcher",
+    "description": "Shortcuts to samjwu Links",
+    "version": "1.0.0",
+    "version_name": "pre-release",
+    "icons": {"128": "icon_128x128.jpg"},
+    "browser_action": {
+        "default_icon": "icon.jpg",
+        "default_popup": "popup.html"
+    },
+    "permissions": ["activeTab"]
+}
