@@ -3,6 +3,11 @@ https://stackoverflow.com/questions/6771258/what-does-meta-http-equiv-x-ua-compa
 https://stackoverflow.com/questions/14611264/x-ua-compatible-content-ie-9-ie-8-ie-7-ie-edge
 https://www.w3schools.com/bootstrap/bootstrap_modal.asp
 https://www.w3schools.com/howto/howto_css_modals.asp
+https://www.w3schools.com/css/css3_flexbox.asp
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+https://www.w3schools.com/tags/att_a_target.asp
+http://khan.github.io/Font-Awesome/cheatsheet/
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox
 
 manifest.json
 https://developer.chrome.com/apps/manifest
