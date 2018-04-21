@@ -13,6 +13,7 @@ styles.css
 https://www.w3schools.com/cssref/sel_link.asp
 https://www.w3schools.com/cssref/sel_visited.asp
 https://www.w3schools.com/cssref/pr_outline.asp
+https://stackoverflow.com/questions/27539262/whats-the-difference-between-align-content-and-align-items
 
 manifest.json
 https://developer.chrome.com/apps/manifest
