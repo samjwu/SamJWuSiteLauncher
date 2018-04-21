@@ -15,10 +15,12 @@ h1 {
     color: #ffa500;
 }
 
-a:link, a:visited {
-    color: #000;
-    outline: 0px;
-    text-decoration: none;
+.avatar {
+    padding: 15px;
+}
+
+.avatar-img {
+    vertical-align: text-bottom;
 }
 
 img {
@@ -28,4 +30,20 @@ img {
 .modal-header {
     align-items: center;
     border-bottom: 1px solid #ccc;
+}
+
+.modal-content {
+    padding: 0px 20px;
+}
+
+.modal-icons {
+    border-top: 1px solid #ccc;
+    height: 50px;
+    width: 100%;
+}
+
+a:link, a:visited {
+    color: #000;
+    outline: 0px;
+    text-decoration: none;
 }
