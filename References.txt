@@ -17,6 +17,7 @@ https://www.w3schools.com/cssref/pr_outline.asp
 https://stackoverflow.com/questions/27539262/whats-the-difference-between-align-content-and-align-items
 https://www.w3schools.com/css/css_padding.asp
 https://www.w3schools.com/cssref/pr_pos_vertical-align.asp
+https://www.w3schools.com/cssref/css3_pr_justify-content.asp
 
 manifest.json
 https://developer.chrome.com/apps/manifest

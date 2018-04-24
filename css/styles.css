@@ -1,23 +1,23 @@
 html, body {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 15px;
-    margin: 0px;
     min-height: 200px;
-    padding: 0px;
     width: 400px;
+    margin: 0px;
+    padding: 0px;
 }
 
 h1 {
+    color: #ffa500;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 20px;
     font-weight: 900;
     margin: 0px;
-    color: #ffa500;
 }
 
 .modal-header {
-    align-items: center;
     border-bottom: 1px solid #ccc;
+    align-items: center;
 }
 
 .avatar {
@@ -25,8 +25,8 @@ h1 {
 }
 
 .avatar-img {
-    vertical-align: text-bottom;
     margin-right: 10px;
+    vertical-align: text-bottom;
 }
 
 img {
@@ -34,8 +34,8 @@ img {
 }
 
 .version {
-    color: #ff0000;
     font-size: 15px;
+    color: #ff0000;
 }
 
 .modal-content {
@@ -48,8 +48,22 @@ img {
     width: 100%;
 }
 
+.flex-container {
+    display: flex;
+    padding: 10px 20px;
+    justify-content: space-between;
+}
+
+.flex {
+    opacity: 1;
+}
+
+.flex:hover {
+    opacity: 0.5;
+}
+
 a:link, a:visited {
     color: #000;
-    outline: 0px;
     text-decoration: none;
+    outline: 0px;
 }
