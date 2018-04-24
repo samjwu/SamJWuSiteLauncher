@@ -15,21 +15,27 @@ h1 {
     color: #ffa500;
 }
 
+.modal-header {
+    align-items: center;
+    border-bottom: 1px solid #ccc;
+}
+
 .avatar {
     padding: 15px;
 }
 
 .avatar-img {
     vertical-align: text-bottom;
+    margin-right: 10px;
 }
 
 img {
     width: 50px;
 }
 
-.modal-header {
-    align-items: center;
-    border-bottom: 1px solid #ccc;
+.version {
+    color: #ff0000;
+    font-size: 15px;
 }
 
 .modal-content {

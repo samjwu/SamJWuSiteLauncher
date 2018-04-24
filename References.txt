@@ -10,6 +10,7 @@ http://khan.github.io/Font-Awesome/cheatsheet/
 https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox
 
 styles.css
+https://webdesign.tutsplus.com/articles/modal-and-modeless-boxes-in-web-design--webdesign-2282
 https://www.w3schools.com/cssref/sel_link.asp
 https://www.w3schools.com/cssref/sel_visited.asp
 https://www.w3schools.com/cssref/pr_outline.asp
