@@ -42,6 +42,10 @@ img {
     padding: 0px 20px;
 }
 
+p {
+    text-align: center;
+}
+
 .modal-icons {
     border-top: 1px solid #ccc;
     height: 50px;
@@ -67,4 +71,9 @@ a:link, a:visited {
     color: #000;
     text-decoration: none;
     outline: 0px;
+}
+
+.flex .fa {
+    color: #ffa500;
+    font-size: 50px;
 }
