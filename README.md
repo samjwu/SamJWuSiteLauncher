@@ -1,1 +1,2 @@
-# samjwuWebsiteLauncher
+# SamJWuWebsiteLauncher
+Shortcuts to SamJWu Links
