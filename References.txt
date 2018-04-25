@@ -24,3 +24,6 @@ https://teamtreehouse.com/community/transition-timing-function-ease-vs-easeinout
 manifest.json
 https://developer.chrome.com/apps/manifest
 https://developer.chrome.com/webstore/get_started_simple
+https://stackoverflow.com/questions/20424425/recommended-size-of-icon-for-google-chrome-extension
+https://developer.chrome.com/extensions/browserAction#icon
+https://developer.chrome.com/extensions/manifest/icons
