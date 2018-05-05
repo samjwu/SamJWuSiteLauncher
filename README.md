@@ -1,8 +1,7 @@
 # SamJWuSiteLauncher
-Shortcuts to SamJWu Links
 
-- [Personal Website](https://samjwu.github.io/)
-- [GitHub](https://github.com/samjwu)
-- [YouTube](https://www.youtube.com/channel/UCty971SsKihGxPMwoSuwpqg)
-- [Orfium](https://www.orfium.com/profile/sjwu/)
-- [DeviantArt](https://sjwu.deviantart.com)
+### A Google Chrome Extension
+
+Download the Extension: [https://chrome.google.com/webstore/detail/samjwu-site-launcher/ggnnnlbmpbphllkhaemccepflccnajcm](https://chrome.google.com/webstore/detail/samjwu-site-launcher/ggnnnlbmpbphllkhaemccepflccnajcm)
+
+Shortcuts to [SamJWu](https://samjwu.github.io/) Links
