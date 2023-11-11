@@ -1,9 +1,9 @@
 {
     "manifest_version": 2,
     "name": "SamJWu Site Launcher",
-    "description": "Shortcuts to SamJWu Links",
+    "description": "Shortcuts to links on samjwu.github.io",
     "version": "1.0.1",
-    "version_name": "alpha",
+    "version_name": "beta",
     "icons": {
         "16": "img/icon16.png",
         "48": "img/icon48.png",
